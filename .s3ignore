@@ -2,3 +2,5 @@
 .gitignore
 .git
 .git/*
+.s3cfg
+.s3ignore
